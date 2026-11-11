@@ -1,1 +1,10 @@
-ewogICJ1c2VkX3BlcmNlbnQiOiA0NSwKICAicmVtYWluaW5nX3BlcmNlbnQiOiA1NSwKICAicmVzZXRfYXQiOiAiMjAyNi0xMS0xNVQwNjoyOTowMCswOTowMCIsCiAgInJlc2V0X2xhYmVsIjogIjExLzE1KOaXpSkgMDY6MjkiLAogICJyZXNldHNfaW5fbGFiZWwiOiAi44GC44GoNOaXpSIsCiAgImFkZGl0aW9uYWxfbGVmdF9sYWJlbCI6ICIxMkIgdG9rZW5zIGxlZnQiLAogICJ1cGRhdGVkX2F0IjogIjIwMjYtMTEtMTFUMDY6NTg6NTYrMDk6MDAiLAogICJ1cGRhdGVkX2xhYmVsIjogIjExLzExIDA2OjU4Igp9Cg==
+{
+  "used_percent": 55,
+  "remaining_percent": 45,
+  "reset_at": "2026-11-15T06:29:00+09:00",
+  "reset_label": "11/15(日) 06:29",
+  "resets_in_label": "あと4日",
+  "additional_left_label": "12B tokens left",
+  "updated_at": "2026-11-11T12:57:46+09:00",
+  "updated_label": "11/11 12:57"
+}

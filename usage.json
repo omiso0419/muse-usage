@@ -1,10 +1,10 @@
 {
-  "used_percent": 1,
-  "remaining_percent": 99,
+  "used_percent": 12,
+  "remaining_percent": 88,
   "reset_at": "2026-11-22T06:35:00+09:00",
   "reset_label": "11/22(日) 06:35",
   "resets_in_label": "あと7日",
   "additional_left_label": "11B tokens left",
-  "updated_at": "2026-11-15T06:58:56+09:00",
-  "updated_label": "11/15 06:58"
+  "updated_at": "2026-11-15T12:57:29+09:00",
+  "updated_label": "11/15 12:57"
 }
